@@ -1,0 +1,48 @@
+header img {
+  width: 100px;
+  height: 100px;
+}
+header h1 {
+  color: white;
+  background-color: #ff0000;
+}
+header ul {
+  list-style: none;
+  padding-left: 0;
+}
+header ul li a {
+  font-size: 20px;
+}
+.bgr {
+  background-color: #a52a2a;
+}
+.bgw {
+  bgcolor: white;
+}
+section h2 {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+section h1 {
+  text-align: center;
+  font-size: 2em;
+}
+section p,
+section span {
+  font-size: 30px;
+  text-align: justify;
+}
+section ul {
+  font-size: 25px;
+  color: white;
+}
+.tblack {
+  color: black;
+}
+.twhite {
+  color: white;
+}
+section img {
+  width: 50%;
+}
